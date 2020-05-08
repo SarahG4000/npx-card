@@ -1,0 +1,28 @@
+{
+  "name": "sarah",
+  "version": "1.0.0",
+  "description": "card-npx",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SarahG4000/npx-card.git"
+  },
+  "author": "sarah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SarahG4000/npx-card/issues"
+  },
+  "homepage": "https://github.com/SarahG4000/npx-card#readme",
+  "dependencies": {
+    "ansi-styles": "^4.2.1",
+    "axios": "^0.19.2",
+    "boxen": "^4.2.0",
+    "chalk": "^4.0.0",
+    "figlet": "^1.4.0",
+    "ora": "^4.0.4",
+    "readline-sync": "^1.4.10"
+  }
+}
