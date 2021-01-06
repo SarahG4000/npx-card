@@ -18,7 +18,7 @@
   "homepage": "https://github.com/SarahG4000/npx-card#readme",
   "dependencies": {
     "ansi-styles": "^4.2.1",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "boxen": "^4.2.0",
     "chalk": "^4.0.0",
     "figlet": "^1.4.0",
